@@ -1,2 +1,6 @@
 __pycache__
 tests/out/*
+tests/data/*
+
+.vscode/*
+*.code-workspace

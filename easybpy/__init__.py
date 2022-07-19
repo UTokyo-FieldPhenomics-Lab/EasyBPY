@@ -13,6 +13,7 @@ bl_info = {
 import bpy
 
 from . import io
+from .external import minexr
 
 cls = (
     io
